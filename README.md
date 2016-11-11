@@ -1,6 +1,6 @@
 # Careers at Inamoto & Co.
 
-Our Github is empty, and the product group would like to change that.  We're looking for both Software Engineers and Associate Software Engineers to join our team.
+Our Github is empty, and the product group would like to change that.  We're looking for both Creative Technologists and Associate Software Engineers to join our team.
 
 Both roles are for people who are passionate about the web and what it can do.
 
@@ -22,7 +22,7 @@ Both roles are for people who are passionate about the web and what it can do.
 * Experience working with cloud-based services and/or APIs.
 * Some sample projects that are live and can be viewed publicly.
 
-The Associate Software Engineer is right for someone relatively new to coding who would like to learn hands-on in a professional environment. The Software Engineer position is for someone with more professional experience who is looking to bring their depth of skills and help us define how we work.
+The Associate Software Engineer is right for someone relatively new to coding who would like to learn hands-on in a professional environment. The Creative Technologist position is for someone with more professional experience who is looking to bring their depth of skills and help us define how we work.
 
 This is a full time, on-site position in our office in Gowanus, Brooklyn. We offer competitive compensation, benefits, an informal office environment and respect for individual contribution. We listen to music, have lunch together and appreciate good snacks. We rely heavily on each other to deliver the best work possible.
 
